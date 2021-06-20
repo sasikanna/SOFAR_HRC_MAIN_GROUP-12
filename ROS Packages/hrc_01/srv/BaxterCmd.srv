@@ -1,0 +1,6 @@
+# User's input pose
+string arm
+geometry_msgs/Point position
+geometry_msgs/Point rpy
+---
+bool success
